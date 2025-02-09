@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarimIdontKnow
+- 👋 Hi, I’m @Karim
 - 👀 I’m interested in Coding, good food, good drinks, good times :)
 - 🌱 I’m currently learning ... Java, Javascript, HTML, SQL, Linux Server administration 
 - 💞️ I’m looking to collaborate on ... Any "trainee" programm I could join and learn something on the road :) Will you hit me up ?
